@@ -1,0 +1,410 @@
+body {
+    background-color: rgb(11, 16, 26);
+}
+
+.body2 {
+    background-color: rgb(22, 23, 34);
+    overflow-x: hidden;
+}
+
+.imgallmesto {
+    background-color: rgb(26, 27, 43);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    display: block;
+}
+
+::-webkit-scrollbar {
+    background-color: rgb(32, 31, 48);
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 255, 115);
+    border-radius: 2.5px;
+}
+
+#profilepic {
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    
+
+}
+
+.fronttx {
+    display: flex;
+    justify-content: center;
+    color: rgb(187, 187, 187);
+    margin-top: -10px;
+}
+
+p {
+    color: rgb(204, 203, 203);
+}
+
+.from {
+    display: block;
+    text-align: start;
+    margin-left: 25px;
+    
+    
+    
+}
+
+.fromall {
+    display: flex;
+    background-color: rgb(22, 23, 34);
+    width: 300px;
+    
+}
+
+.im {
+    display: block;
+    margin-left: 100px;
+    text-align: end;
+    margin-left: 50px;
+
+}
+
+.hrfrom {
+    width: 250px;
+    margin-left: -125px;
+    background-color: rgb(63, 63, 63);
+    border-color: rgb(48, 48, 48);
+    background: none;
+}
+
+#name {
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    color: rgb(221, 223, 224);
+    transition: 0.4s;
+    cursor: default;
+}
+
+.iframeznam {
+    height: 291px;
+}
+
+#html1 {
+    display: flex;
+    margin-left: -40px;
+
+}
+
+.htmltx {
+    margin-top: -0px;
+}
+
+#html2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 90%,rgb(48, 51, 65) 90%);
+    border: none;
+    
+}
+
+.kolkuznamhtml {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    
+    
+}
+
+.htmltx2 {
+    transform: translatex(10px);
+    margin-top: 1px;
+    
+    
+}
+
+#css1 {
+    display: flex;
+    margin-left: -40px;
+
+}
+
+.csstx {
+    display: flex;
+    margin-top: -0px;
+    
+}
+
+
+#css2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 70%,rgb(48, 51, 65) 70%);
+    border: none;
+    transform: translateX(20px); 
+    margin-left: -11px;
+}
+
+.kolkuznamhtml {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    
+    
+}
+
+.csstx2 {
+    transform: translatex(10px);
+    margin-top: 1px;
+    
+    
+}
+
+#javascript1 {
+    display: flex;
+    margin-left: -40px;
+
+}
+
+.javascripttx {
+    margin-left: 5px;
+    margin-top: -0.0px;
+    
+}
+
+#javascript2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 10%,rgb(48, 51, 65) 10%);
+    border: none;
+    transform: translateX(20px); 
+    margin-left: -8px;
+}
+
+.kolkuznamse {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 15px;
+    transform: translateX(15px);
+}
+
+.javascripttx2 {
+    transform: translatex(10px);
+    margin-top: 1px;
+}
+
+#alltext {
+    display: block;
+    transform: translateX(-15px);
+    
+}
+
+#jQuery1 {
+    display: flex;
+    margin-left: -40px;
+
+}
+
+.jQuerytx {
+    margin-left: 5px;
+    margin-top: -0.0px;
+    
+}
+
+#jQuery2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 0%,rgb(48, 51, 65) 0%);
+    border: none;
+    transform: translateX(20px); 
+    margin-left: -32px;
+}
+
+.jQuery {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 15px;
+    transform: translateX(15px);
+}
+
+.jQuerytx2 {
+    transform: translatex(10px);
+    margin-top: 1px;
+}
+
+#PHP1 {
+    display: flex;
+    margin-left: -40px;
+
+}
+
+.PHPtx {
+    margin-left: 5px;
+    margin-top: -0.0px;
+}
+
+#PHP2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 0%,rgb(48, 51, 65) 0%);
+    border: none;
+    transform: translateX(20px); 
+    margin-left: -20px;
+}
+
+.PHP {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 15px;
+    transform: translateX(15px);
+}
+
+.PHPtx2 {
+    transform: translatex(10px);
+    margin-top: 1px;
+}
+
+
+#React1 {
+    display: flex;
+    margin-left: -40px;
+}
+
+.Reacttx {
+    margin-left: 5px;
+    margin-top: -0.0px;
+}
+
+#React2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 0%,rgb(48, 51, 65) 0%);
+    border: none;
+    transform: translateX(20px); 
+    margin-left: -20px;
+}
+
+.React {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 15px;
+    transform: translateX(15px);
+}
+
+.Reacttx2 {
+    transform: translatex(10px);
+    margin-top: 1px;
+}
+
+
+
+
+#Python1 {
+    display: flex;
+    margin-left: -40px;
+
+}
+
+.Pythontx {
+    margin-left: 5px;
+    margin-top: -0.0px;
+}
+
+#Python2 {
+    width: 180px;
+    height: 5px;
+    border-radius: 15px;
+    background:linear-gradient(to right,rgb(0, 225, 255) 0%,rgb(48, 51, 65) 0%);
+    border: none;
+    transform: translateX(20px); 
+    margin-left: -32px;
+}
+
+.Python {
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 15px;
+    transform: translateX(15px);
+}
+
+.Pythontx2 {
+    transform: translatex(10px);
+    margin-top: 1px;  
+}
+
+@keyframes pic {
+    from {
+    transform: translateX(7px);
+    border-radius: 40px;
+    }
+
+    default {
+        border-radius: 50px;
+    }
+    
+    to {
+    transform:translateX(-7px);
+    border-radius: 50px;
+    
+    }
+
+}
+    
+#profilepic {
+    animation-name: pic;
+    animation-duration: 0.7s;
+    animation-timing-function:linear;
+    animation-iteration-count:infinite;
+    animation-direction: alternate-reverse;
+     
+    
+
+}
+
+.background5 {
+   width: 400px;
+   height: 60px;
+   border-radius: 18px;
+   background-color: rgb(43, 46, 43);
+   display: block;
+   margin-left:auto ;
+   margin-right:auto;
+   margin-top: 19%;
+   border-width: 5px;
+   animation-name: more;
+   animation-timing-function: ease-in;
+   animation-iteration-count: 1;
+   animation-delay: 2s;
+   animation-duration: 2s;
+}
+
+
+@keyframes more {
+    from {
+        transition: 2s;
+        background-color: rgb(0, 255, 0);
+        background-size:10%;
+    }
+
+    to {
+
+    }
+}
+
+hr {
+    background: transparent;
+    border-color: transparent;
+}
+
