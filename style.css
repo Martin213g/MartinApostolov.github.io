@@ -1,0 +1,92 @@
+.contactall6 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(200px);
+}
+
+.iconc {
+    transition: 0.1s; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+}
+.iconc:hover {
+    scale: 1.1;
+}
+
+body {
+    background: linear-gradient(to right,rgb(253, 59, 91),rgb(255, 36, 255));
+    position: 0;
+    margin: 0;
+}
+
+.Contactall {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: -20px;
+    transform: translateY(20px);
+    margin-left: -40px;
+    
+    
+
+}
+
+body {
+    text-decoration: none;
+    overflow-x: hidden;
+    
+}
+
+#contactbut {
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border-radius:5px;
+    height: 33px;
+    width: 80px;
+    margin-top: 15px;
+    transition: 0.4s;
+    border-color: transparent;
+    cursor: pointer;
+    margin-left: -13px;
+    transform: translateX(45px);
+    
+    
+    
+}
+#contactbut:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    scale: 1.04;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+}
+
+.iconset2 {
+    width: 40px;
+    
+
+    
+}
+
+.iconset1 {
+    width: 40px;
+    margin-top:9px;
+    margin-left: 20px;
+    background: none;
+    border: none;
+    transition: 0.4s;
+}
+.iconset1:hover {
+    scale: 1.1;
+    rotate: 25deg;
+}
