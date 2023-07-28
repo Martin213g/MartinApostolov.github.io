@@ -1,0 +1,161 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.Contactall {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: -20px;
+    transform: translateY(20px);
+    
+    
+
+}
+
+body {
+    text-decoration: none;
+    overflow-x: hidden;
+    
+}
+
+#contactbut {
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border-radius:5px;
+    height: 33px;
+    width: 80px;
+    margin-top: 10px;
+    transition: 0.4s;
+    border-color: transparent;
+    cursor: pointer;
+    margin-left: -13px;
+    transform: translateX(45px);
+    
+    
+    
+}
+#contactbut:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    scale: 1.04;
+}
+
+
+
+.iconset1 {
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    background: none;
+    border: none;
+    transition: 0.3s;
+    cursor: pointer;
+    
+    
+}
+.iconset1:hover {
+    scale: 1.1;
+    rotate: 25deg;
+}
+
+
+.main {
+    background: linear-gradient(to right,rgb(253, 59, 91),rgb(255, 36, 255));
+    height: auto;
+    
+
+}
+
+.iphone12 {
+    width: 200px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+
+
+.how {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    transform: translateY(50px);
+    
+    
+    
+    
+    
+}
+
+::-webkit-scrollbar {
+    background-color: rgb(195, 0, 255);
+    width: 5px;
+}
+
+
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 0, 0);
+    border-radius: 2px;
+    
+}
+
+p {
+    text-decoration: none;
+}
+
+.how1 {
+
+    width: 80px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(45px);
+     
+}
+
+h1 {
+    font-size: 65px;
+    text-align: center;
+    color: rgb(68, 0, 131);
+}
+
+h2 {
+    text-align: center;
+    font-size: 23px;
+    color: rgb(202, 202, 202);
+}
+
+.contactall6 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(500px);
+}
+
+.iconc {
+    transition: 0.1s; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconc:hover {
+    scale: 1.1;
+}
+
+.body2 {
+    background: linear-gradient(to right,rgb(253, 59, 91),rgb(255, 36, 255));
+        
+}
+    
